@@ -36,6 +36,8 @@ public class TestServlet extends HttpServlet {
         out.println("<h1>ようこそ!HelloServletへ</h1>");
         out.println("</body></html>");
 
+        System.out.println("test02");
+
 	}
 
 	/**
